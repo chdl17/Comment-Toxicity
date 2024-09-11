@@ -51,7 +51,7 @@ COMMENT TOXICITY/
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/comment-toxicity.git
+   git clone https://github.com/chdl17/comment-toxicity.git
    cd comment-toxicity
    ```
 
@@ -123,10 +123,6 @@ model.compile(optimizer='adam', loss='binary_crossentropy', metrics=['accuracy']
 - Jupyter Notebook for development and analysis
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
-Project Link: [https://github.com/your-username/comment-toxicity](https://github.com/your-username/comment-toxicity)
+Project Link: [https://github.com/chdl17/comment-toxicity](https://github.com/chdl17/comment-toxicity)
