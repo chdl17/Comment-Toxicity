@@ -1,0 +1,12 @@
+black
+flake8
+isort
+mkdocs
+pip
+python-dotenv
+scikit-learn
+tensorflow
+pandas
+matplotlib
+gradio
+jinja2
