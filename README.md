@@ -5,7 +5,7 @@
 This project focuses on analyzing and detecting toxic comments using machine learning techniques, specifically a Long Short-Term Memory (LSTM) neural network. It aims to automatically identify and classify potentially harmful or offensive content in online discussions, helping to maintain healthier online communities.
 
 
-![Project Demo](/Users/maruthi_chdl/Desktop/Comment Toxicity/comment_toxicity/reports/videos/project_demo.gif)
+![Project Demo](reports/videos/project_demo.gif')
 
 ## Features
 
